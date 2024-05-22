@@ -24,5 +24,4 @@ pagina3.html
 *.test
 
 #Ignorar arquivos .pdf dentro da pasta detalhes/relatorios
-#ou seja, ignorar os arquivos dentro da subpasta
 detalhe/relatorios/*.pdf
